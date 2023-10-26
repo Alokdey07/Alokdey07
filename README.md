@@ -1,16 +1,25 @@
-### Hi there 👋
+# Hello, I'm [Alok Dey]
 
-<!--
-**Alokdey07/Alokdey07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I'm a passionate Java developer with 3 years of professional experience. My expertise lies in building robust and scalable applications using a wide range of technologies, including Spring Boot, microservices architecture, SQL databases, Core Java, AWS, Angular, and more. I'm currently working on a healthcare management project, where I leverage my skills to create innovative solutions.
 
-Here are some ideas to get you started:
+## My Tech Stack
+- **Java**: Proficient in Core Java with a strong foundation in object-oriented programming.
+- **Spring Boot**: Experienced in building RESTful APIs and web applications with Spring Boot.
+- **Microservices**: Skilled in designing and implementing microservices architecture for scalable and maintainable applications.
+- **SQL**: Proficient in database design, SQL queries, and database optimization.
+- **AWS**: Knowledgeable in deploying and managing applications on AWS infrastructure.
+- **Angular**: Competent in front-end development with Angular for creating interactive user interfaces.
+- **Other Technologies**: I've worked with various other technologies, frameworks, and tools to deliver high-quality software solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My Projects
+- **Healthcare Management Project**: Currently, I'm working on a healthcare management project where I'm responsible for developing and maintaining the backend services using Spring Boot and managing data in SQL databases.
+
+- **Other Projects**: I've contributed to and developed multiple projects, including API development, microservices, and more. You can check out my repositories for a detailed view of my work.
+
+## Get in Touch
+- 📧 Email: [alokdeykv@gmail.com]
+- LinkedIn: (https://www.linkedin.com/in/)
+- GitHub: (https://github.com/alokdey07)
+
+Feel free to explore my repositories to see my coding style, project contributions, and more. If you have any questions or collaboration opportunities, please don't hesitate to reach out.
