@@ -1,4 +1,4 @@
-# Hello, I'm [Alok Dey]
+# Hello, I'm Alok Dey
 
 ## About Me
 I'm a passionate Java developer with 3 years of professional experience. My expertise lies in building robust and scalable applications using a wide range of technologies, including Spring Boot, microservices architecture, SQL databases, Core Java, AWS, Angular, and more. I'm currently working on a healthcare management project, where I leverage my skills to create innovative solutions.
